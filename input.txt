@@ -1,0 +1,6 @@
+cnn.com         news    media   english
+google.com      search
+twitter.com     social  photos
+flickr.com      social  photos
+alriyadh.com    news    media   arabic
+qaym.com        social  arabic
