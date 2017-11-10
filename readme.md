@@ -11,7 +11,7 @@ go build
 
 Run the project
 ```bash
-./Quiz -filename input.txt
+./DomainParser -filename input.txt
 ```
 
 or:
